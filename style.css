@@ -370,6 +370,11 @@ nav {
     font-weight: 550;
     font-size: small;
     border: none;
+    transition: 300ms;
+}
+.button-panier button:hover {
+    cursor: pointer;
+    background-color: rgb(85, 130, 227);
 }
 .boutons2 {
     justify-items: center;
